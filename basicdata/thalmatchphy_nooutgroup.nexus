@@ -1,0 +1,205 @@
+#NEXUS
+[R-package PHYTOOLS, Sun Feb 22 09:44:06 2026]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 96;
+	TAXLABELS
+		Thalictrum_actaeifolium
+		Thalictrum_acutifolium
+		Thalictrum_alpinum
+		Thalictrum_amurense
+		Thalictrum_aquilegiifolium
+		Thalictrum_aquilegiifolium-sibricum
+		Thalictrum_arkansanum
+		Thalictrum_arsenii
+		Thalictrum_atriplex
+		Thalictrum_baicalense
+		Thalictrum_calabricum
+		Thalictrum_calcicola
+		Thalictrum_chelidonii
+		Thalictrum_clavatum
+		Thalictrum_confine
+		Thalictrum_cooleyi
+		Thalictrum_coreanum
+		Thalictrum_coriaceum
+		Thalictrum_cuernavacanum
+		Thalictrum_cultratum
+		Thalictrum_dasycarpum
+		Thalictrum_decipiens
+		Thalictrum_delavayi
+		Thalictrum_diffusiflorum
+		Thalictrum_dioicum
+		Thalictrum_elegans
+		Thalictrum_fargesii
+		Thalictrum_fendleri
+		Thalictrum_filamentosum
+		Thalictrum_finetii
+		Thalictrum_flavum
+		Thalictrum_foeniculaceum
+		Thalictrum_foetidum
+		Thalictrum_foliolosum
+		Thalictrum_galeottii
+		Thalictrum_gibbosum
+		Thalictrum_grandiflorum
+		Thalictrum_grandifolium
+		Thalictrum_guatemalense
+		Thalictrum_heliophilum
+		Thalictrum_henricksonii
+		Thalictrum_hernandezii
+		Thalictrum_ichangense
+		Thalictrum_isopyroides
+		Thalictrum_kiusianum
+		Thalictrum_lankesteri
+		Thalictrum_lecoyeri
+		Thalictrum_leuconotum
+		Thalictrum_lucidum
+		Thalictrum_macrocarpum
+		Thalictrum_macrostylum
+		Thalictrum_minus-hypoleucum
+		Thalictrum_myriophyllum
+		Thalictrum_occidentale
+		Thalictrum_omeiense
+		Thalictrum_peltatum
+		Thalictrum_petaloideum
+		Thalictrum_pinnatum
+		Thalictrum_podocarpum
+		Thalictrum_polycarpum
+		Thalictrum_pringlei
+		Thalictrum_przewalskii
+		Thalictrum_pubescens
+		Thalictrum_pubigerum
+		Thalictrum_punctatum
+		Thalictrum_reniforme
+		Thalictrum_reticulatum
+		Thalictrum_revolutum
+		Thalictrum_rhynchocarpum
+		Thalictrum_rochebrunianum
+		Thalictrum_rostellatum
+		Thalictrum_rotundifolium
+		Thalictrum_rubescens
+		Thalictrum_rutifolium
+		Thalictrum_sachalinese
+		Thalictrum_saniculaeforme
+		Thalictrum_simplex-brevipes
+		Thalictrum_smithii
+		Thalictrum_sparsiflorum
+		Thalictrum_squamiferum
+		Thalictrum_squarrosum
+		Thalictrum_strigillosum
+		Thalictrum_tenue
+		Thalictrum_texanum
+		Thalictrum_thalictroides
+		Thalictrum_trichopus
+		Thalictrum_tripeltiferum
+		Thalictrum_tuberiferum
+		Thalictrum_tuberosum
+		Thalictrum_uchiyamai
+		Thalictrum_uncatum
+		Thalictrum_uncinulatum
+		Thalictrum_urbainii
+		Thalictrum_venulosum
+		Thalictrum_virgatum
+		Thalictrum_zernyi
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Thalictrum_actaeifolium,
+		2	Thalictrum_acutifolium,
+		3	Thalictrum_alpinum,
+		4	Thalictrum_amurense,
+		5	Thalictrum_aquilegiifolium,
+		6	Thalictrum_aquilegiifolium-sibricum,
+		7	Thalictrum_arkansanum,
+		8	Thalictrum_arsenii,
+		9	Thalictrum_atriplex,
+		10	Thalictrum_baicalense,
+		11	Thalictrum_calabricum,
+		12	Thalictrum_calcicola,
+		13	Thalictrum_chelidonii,
+		14	Thalictrum_clavatum,
+		15	Thalictrum_confine,
+		16	Thalictrum_cooleyi,
+		17	Thalictrum_coreanum,
+		18	Thalictrum_coriaceum,
+		19	Thalictrum_cuernavacanum,
+		20	Thalictrum_cultratum,
+		21	Thalictrum_dasycarpum,
+		22	Thalictrum_decipiens,
+		23	Thalictrum_delavayi,
+		24	Thalictrum_diffusiflorum,
+		25	Thalictrum_dioicum,
+		26	Thalictrum_elegans,
+		27	Thalictrum_fargesii,
+		28	Thalictrum_fendleri,
+		29	Thalictrum_filamentosum,
+		30	Thalictrum_finetii,
+		31	Thalictrum_flavum,
+		32	Thalictrum_foeniculaceum,
+		33	Thalictrum_foetidum,
+		34	Thalictrum_foliolosum,
+		35	Thalictrum_galeottii,
+		36	Thalictrum_gibbosum,
+		37	Thalictrum_grandiflorum,
+		38	Thalictrum_grandifolium,
+		39	Thalictrum_guatemalense,
+		40	Thalictrum_heliophilum,
+		41	Thalictrum_henricksonii,
+		42	Thalictrum_hernandezii,
+		43	Thalictrum_ichangense,
+		44	Thalictrum_isopyroides,
+		45	Thalictrum_kiusianum,
+		46	Thalictrum_lankesteri,
+		47	Thalictrum_lecoyeri,
+		48	Thalictrum_leuconotum,
+		49	Thalictrum_lucidum,
+		50	Thalictrum_macrocarpum,
+		51	Thalictrum_macrostylum,
+		52	Thalictrum_minus-hypoleucum,
+		53	Thalictrum_myriophyllum,
+		54	Thalictrum_occidentale,
+		55	Thalictrum_omeiense,
+		56	Thalictrum_peltatum,
+		57	Thalictrum_petaloideum,
+		58	Thalictrum_pinnatum,
+		59	Thalictrum_podocarpum,
+		60	Thalictrum_polycarpum,
+		61	Thalictrum_pringlei,
+		62	Thalictrum_przewalskii,
+		63	Thalictrum_pubescens,
+		64	Thalictrum_pubigerum,
+		65	Thalictrum_punctatum,
+		66	Thalictrum_reniforme,
+		67	Thalictrum_reticulatum,
+		68	Thalictrum_revolutum,
+		69	Thalictrum_rhynchocarpum,
+		70	Thalictrum_rochebrunianum,
+		71	Thalictrum_rostellatum,
+		72	Thalictrum_rotundifolium,
+		73	Thalictrum_rubescens,
+		74	Thalictrum_rutifolium,
+		75	Thalictrum_sachalinese,
+		76	Thalictrum_saniculaeforme,
+		77	Thalictrum_simplex-brevipes,
+		78	Thalictrum_smithii,
+		79	Thalictrum_sparsiflorum,
+		80	Thalictrum_squamiferum,
+		81	Thalictrum_squarrosum,
+		82	Thalictrum_strigillosum,
+		83	Thalictrum_tenue,
+		84	Thalictrum_texanum,
+		85	Thalictrum_thalictroides,
+		86	Thalictrum_trichopus,
+		87	Thalictrum_tripeltiferum,
+		88	Thalictrum_tuberiferum,
+		89	Thalictrum_tuberosum,
+		90	Thalictrum_uchiyamai,
+		91	Thalictrum_uncatum,
+		92	Thalictrum_uncinulatum,
+		93	Thalictrum_urbainii,
+		94	Thalictrum_venulosum,
+		95	Thalictrum_virgatum,
+		96	Thalictrum_zernyi
+	;
+	TREE * UNTITLED = [&R] (((((((((((((1:3.791607966,83:3.791607966):0.2287469552,(10:3.504530928,(33:2.728962829,89:2.728962829):0.7755680992):0.5158239929):0.0675633789,11:4.0879183):0.2323171562,(((((((18:0.6302053818,63:0.6302053818):0.2177014652,(21:0.3841352674,68:0.3841352674):0.4637715796):0.9311876795,(16:1.21303825,51:1.21303825):0.566056277):0.396913926,((((49:0.1667698915,77:0.1667698915):0.2600191271,81:0.4267890186):0.4429479163,52:0.8697369349):0.5587679154,(4:0.6814469878,31:0.6814469878):0.7470578625):0.7475036021):0.5431980425,70:2.719206495):0.7177098235,23:3.436916318):0.5255672737,37:3.962483592):0.3577518638):0.5683006418,(5:2.799353417,((6:0.8986948059,57:0.8986948059):0.9046643765,75:1.803359182):0.9959942342):2.089182681):0.4074805619,((53:0.6150491459,55:0.6150491459):1.109286259,92:1.724335405):3.571681255):0.4844800013,((((((7:0.2565978532,84:0.2565978532):0.8631951882,((15:0.3648354116,(54:0.2024884677,94:0.2024884677):0.1623469439):0.5446354268,(25:0.6792069536,(28:0.1292580614,60:0.1292580614):0.5499488922):0.2302638848):0.210322203):0.8516387739,58:1.971431815):0.08321543336,40:2.054647249):2.156978216,(27:3.919445175,((48:1.705738322,74:1.705738322):0.2357573299,91:1.941495652):1.977949523):0.292180289):0.1111613836,((((47:1.271215796,12:1.271215796):0.8837382176,9:2.154954014):0.05477661855,(20:0.7684520286,44:0.7684520286):1.441278604):0.326612052,67:2.536342685):1.786444164):1.457709813):1.131939991,((((((30:1.391861958,(62:0.8650461318,79:0.8650461318):0.526815826):0.2406401734,78:1.632502131):1.267607345,26:2.900109476):0.5287776855,(((66:1.462789691,(76:0.8541994992,13:0.8541994992):0.6085901918):0.2998775479,72:1.762667239):1.521243381,24:3.28391062):0.144976542):2.209710892,71:5.638598054):0.2801727659,80:5.91877082):0.9936658324):1.025839443,(((3:2.831637909,96:2.831637909):3.447710205,((34:4.948932803,95:4.948932803):1.131504,69:6.080436803):0.1989113121):1.03950542,((((((((((8:0.140681311,61:0.140681311):0.8841894487,39:1.02487076):0.3191255506,36:1.34399631):0.1991006929,38:1.543097003):0.2110047619,46:1.754101765):0.1127553249,(35:0.454385892,56:0.454385892):1.412471198):0.1037749807,82:1.970632071):0.08349720708,(((22:0.8769786343,59:0.8769786343):0.4884639211,42:1.365442555):0.06163995418,(64:0.710026533,19:0.710026533):0.7170559766):0.6270467682):0.05343701254,41:2.10756629):1.190555097,87:3.298121388):4.020732147):0.6194225608):0.748083702,32:8.686359797):0.9513331537,86:9.637692951):1.95161304,50:11.58930599):3.661054242,(((14:3.942042507,85:3.942042507):3.796980973,((((17:1.619312498,(88:1.10506376,2:1.10506376):0.5142487381):0.6504960365,(65:0.6135947063,90:0.6135947063):1.656213828):2.006534831,(29:2.151070588,45:2.151070588):2.125272777):1.991707769,(73:2.209476698,93:2.209476698):4.058574436):1.470972346):1.125722733,43:8.864746213):6.385614021);
+END;
